@@ -1,0 +1,75 @@
+{
+    "Chassis": {
+        "descricao": "Estrutura básica do carro, fornece rigidez e aerodinâmica.",
+        "material": "Fibra de carbono",
+        "peso": "75 kg"
+    },
+    "Motor": {
+        "descricao": "Responsável por converter energia elétrica em movimento.",
+        "potencia": "250 kW",
+        "fabricante": "Mahindra Racing"
+    },
+    "Bateria": {
+        "descricao": "Fornece a energia elétrica necessária para o motor.",
+        "capacidade": "52 kWh",
+        "peso": "250 kg"
+    },
+    "Suspensao": {
+        "descricao": "Sistema de amortecimento para estabilidade e controle.",
+        "material": "Alumínio",
+        "peso": "20 kg"
+    },
+    "Aerofolio Traseiro": {
+        "descricao": "Elemento que fornece força descendente para aumentar a aderência nas curvas.",
+        "material": "Fibra de carbono",
+        "peso": "5 kg"
+    },
+    "Rodas": {
+        "descricao": "Conjunto de rodas de liga leve para otimizar a tração e a velocidade.",
+        "tamanho": "18 polegadas",
+        "fabricante": "Michelin"
+    },
+    "Freios": {
+        "descricao": "Sistema de freios regenerativos que converte energia de frenagem em energia elétrica.",
+        "material": "Discos de carbono",
+        "peso": "8 kg"
+    },
+    "Caixa de Cambio": {
+        "descricao": "Responsável pela transmissão da força do motor para as rodas.",
+        "velocidades": "1 marcha",
+        "peso": "15 kg"
+    },
+    "Inversor": {
+        "descricao": "Converte a energia da bateria de corrente contínua para corrente alternada para alimentar o motor.",
+        "peso": "10 kg",
+        "fabricante": "Mahindra Electric"
+    },
+    "Cockpit": {
+        "descricao": "Área onde o piloto controla o carro, equipada com volante, bancos e cintos de segurança.",
+        "seguranca": "Cintos de segurança de 6 pontos"
+    },
+    "Halo": {
+        "descricao": "Dispositivo de segurança que protege o piloto contra detritos e colisões.",
+        "material": "Titanium",
+        "peso": "9 kg"
+    },
+    "Volante": {
+        "descricao": "Dispositivo que permite ao piloto controlar a direção e acessar configurações do carro.",
+        "funcionalidades": "Controle de energia, modos de pilotagem, rádio",
+        "peso": "1.5 kg"
+    },
+    "Pneus": {
+        "descricao": "Pneus de especificação única projetados para maximizar a eficiência e aderência em diversas condições.",
+        "fabricante": "Michelin",
+        "tipo": "Pneus all-weather"
+    },
+    "Sistema de Refrigeração": {
+        "descricao": "Sistema que controla a temperatura da bateria e do motor durante a corrida.",
+        "tipo": "Refrigeração líquida",
+        "peso": "12 kg"
+    },
+    "Sistema Eletronico": {
+        "descricao": "Conjunto de sistemas eletrônicos que gerenciam a performance e o controle do carro.",
+        "componentes": "ECU, sensores de telemetria, software de gestão de energia"
+    }
+}
